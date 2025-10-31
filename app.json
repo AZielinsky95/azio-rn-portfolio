@@ -2,11 +2,11 @@
   "expo": {
     "name": "azio-rn-portfolio",
     "slug": "azio-rn-portfolio",
+    "scheme": "aziolab",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
@@ -15,7 +15,12 @@
     "ios": {
       "supportsTablet": true,
       "infoPlist": {
-        "LSApplicationQueriesSchemes": ["https", "http"],
+        "LSApplicationQueriesSchemes": [
+          "https",
+          "http",
+          "https",
+          "http"
+        ],
         "NSAppTransportSecurity": {
           "NSAllowsArbitraryLoads": true
         }
@@ -34,6 +39,18 @@
     },
     "plugins": [
       "expo-router"
-    ]
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "713af299-2014-4f24-941e-0d2c7e5bba00"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/713af299-2014-4f24-941e-0d2c7e5bba00"
+    }
   }
 }

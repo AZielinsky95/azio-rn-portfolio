@@ -1,0 +1,110 @@
+[
+  {
+    "id": "teleport",
+    "title": "Teleport Rideshare",
+    "description": "Solana-powered rideshare aggregator with rewards and leaderboards.",
+    "url": "https://apps.apple.com/us/app/teleport-rideshare-app/id1607881031",
+    "type": "work",
+    "technologies": ["iOS", "SwiftUI", "Web3"],
+    "image": "teleport"
+  },
+  {
+    "id": "guidealong",
+    "title": "GuideAlong",
+    "description": "GPS-guided audio tours for exploring cities and landmarks.",
+    "url": "https://apps.apple.com/us/app/guidealong-gps-audio-tours/id1460032075",
+    "type": "work",
+    "technologies": ["iOS", "SwiftUI", "MapKit", "CoreLocation"],
+    "image": "guidealong"
+  },
+  {
+    "id": "ridwell",
+    "title": "Ridwell",
+    "description": "Sustainable recycling and waste management service app.",
+    "url": "https://apps.apple.com/us/app/ridwell/id1623854075",
+    "type": "work",
+    "technologies": ["iOS", "SwiftUI", "UIKit"],
+    "image": "steamclock"
+  },
+  {
+    "id": "ora-organic",
+    "title": "Ora Organic",
+    "description": "Plant-based supplement shopping and subscription management.",
+    "url": "https://apps.apple.com/us/app/ora-organic/id1533718404",
+    "type": "work",
+    "technologies": ["iOS", "SwiftUI", "GraphQL"],
+    "image": "ora"
+  },
+  {
+    "id": "rbc-mobile",
+    "title": "RBC Mobile Banking",
+    "description": "One of Canada's large banking mobile applications",
+    "url": "https://apps.apple.com/ca/app/rbc-mobile/id407597290",
+    "type": "work",
+    "technologies": ["iOS", "Swift", "UIKit", "SwiftUI"],
+    "image": "rbc"
+  },
+  {
+    "id": "optimity",
+    "title": "Optimity Wellness",
+    "description": "Gamified platform to earn rewards while tracking your health",
+    "url": "https://www.myoptimity.com/",
+    "type": "work",
+    "technologies": ["iOS", "Swift", "UIKit", "HealthKit"],
+    "image": "optimity"
+  },
+  {
+    "id": "letterbox",
+    "title": "Letterbox – Daily Word Games",
+    "description": "A suite of original daily word puzzles designed entirely in SwiftUI.",
+    "url": "https://apps.apple.com/us/app/letterbox-daily-word-games/id6452469243",
+    "type": "personal",
+    "technologies": ["iOS", "SwiftUI", "Swift"],
+    "image": "lbicon"
+  },
+  {
+    "id": "polyvita",
+    "title": "Poly Vita",
+    "description": "Complex isometric puzzle game about self-growth and guidance.",
+    "url": "https://apps.apple.com/us/app/poly-vita/id1549472887",
+    "type": "personal",
+    "technologies": ["Unity", "C#", "iOS", "Android"],
+    "image": "pvicon"
+  },
+  {
+    "id": "scout",
+    "title": "Scout LLM Eval Tool",
+    "description": "Full-stack LLM evaluation tool extending promptfoo framework.",
+    "url": "https://www.youtube.com/watch?v=_lNRoE6YYIQ",
+    "type": "work",
+    "technologies": ["TypeScript", "NodeJS", "AI"],
+    "image": "steamclock"
+  },
+  {
+    "id": "feedback-wizard",
+    "title": "FeedbackWizard",
+    "description": "AI-powered feedback analysis and insight generation tool.",
+    "url": "https://feedbackwizard.forestwalk.ai/",
+    "type": "work",
+    "technologies": ["NodeJS", "TypeScript", "AI"],
+    "image": "steamclock"
+  },
+  {
+    "id": "nice-components",
+    "title": "NiceComponents",
+    "description": "A SwiftUI components library to help speed up development",
+    "url": "https://github.com/steamclock/niceComponents",
+    "type": "open-source",
+    "technologies": ["Swift", "SwiftUI"],
+    "image": "steamclock"
+  },
+  {
+    "id": "debug-menu",
+    "title": "Debug Menu",
+    "description": "A convenient debug menu library to enable ergonomic and swift-y debug options with password-protected access",
+    "url": "https://github.com/steamclock/debug-menu-ios",
+    "type": "open-source",
+    "technologies": ["Swift", "SwiftUI", "UIKit"],
+    "image": "steamclock"
+  }
+]

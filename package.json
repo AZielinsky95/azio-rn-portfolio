@@ -1,7 +1,7 @@
 {
   "name": "azio-rn-portfolio",
   "version": "1.0.0",
-  "main": "index.ts",
+  "main": "expo-router/entry",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -9,13 +9,24 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/vector-icons": "github:expo/vector-icons",
     "expo": "~54.0.20",
+    "expo-image": "^3.0.10",
+    "expo-linking": "^8.0.8",
+    "expo-router": "~6.0.14",
     "expo-status-bar": "~3.0.8",
     "react": "19.1.0",
-    "react-native": "0.81.5"
+    "react-native": "0.81.5",
+    "react-native-safe-area-context": "~5.6.0",
+    "react-native-screens": "~4.16.0",
+    "zustand": "^5.0.8"
   },
   "devDependencies": {
+    "@react-native/eslint-config": "^0.80.2",
     "@types/react": "~19.1.0",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.6.2",
     "typescript": "~5.9.2"
   },
   "private": true
